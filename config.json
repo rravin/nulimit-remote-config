@@ -1,7 +1,7 @@
 {
   "update_dialog": {
     "enabled": true,
-    "dialog_version": 2,
+    "dialog_version": 1,
     "title": "نسخه جدید NuLimit",
     "message": "برای امکانات جدید و رفع باگ‌ها، نسخه جدید را نصب کنید.",
     "button_text": "دانلود آپدیت",
