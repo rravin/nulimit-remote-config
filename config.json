@@ -1,10 +1,10 @@
 {
   "update_dialog": {
     "enabled": false,
-    "dialog_version": 8,
-    "title": "🤪😔😄جdدید2 2NuLimit",
+    "dialog_version": 4,
+    "title": "نسخه جدید 4 NuLimit",
     "message": "برای امکانات جدید و رفع باگ‌ها، نسخه جدید را نصب کنید.",
-    "button_text": "2دانلود آپدیت",
+    "button_text": "دانلود آپدیت",
     "url": "https://t.me/NuLimit"
   }
 }
