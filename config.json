@@ -1,8 +1,8 @@
 {
   "update_dialog": {
-    "enabled": false,
-    "dialog_version": 4,
-    "title": "نسخه جدید 4 NuLimit",
+    "enabled": true,
+    "dialog_version": 5,
+    "title": "نسخه جدید 5 NuLimit",
     "message": "برای امکانات جدید و رفع باگ‌ها، نسخه جدید را نصب کنید.",
     "button_text": "دانلود آپدیت",
     "url": "https://t.me/NuLimit"
