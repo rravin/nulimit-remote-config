@@ -1,11 +1,11 @@
 {
   "update_dialog": {
     "enabled": true,
-    "dialog_version": 5,
-    "target_version_code": 99999,
-    "title": "اطلاعیه مهم",
-    "message": "امشب سرور برای ۱ ساعت در. دست تعمیر است.",
-    "button_text": "باشه",
+    "dialog_version": 1,
+    "target_version_code": 99,
+    "title": "تست دیالوگ آپدیت NuLimit",
+    "message": "اگر این پیام را می‌بینی یعنی تنظیمات ریموت از گیت‌هاب درست کار می‌کند.",
+    "button_text": "برو به کانال",
     "url": ""
   }
 }
