@@ -1,0 +1,11 @@
+{
+  "update_dialog": {
+    "enabled": true,
+    "dialog_version": 1,
+    "target_version_code": 2,
+    "title": "نسخه جدید NuLimit منتشر شد",
+    "message": "برای سرعت و پایداری بهتر، لطفاً آخرین نسخه برنامه را نصب کنید.",
+    "button_text": "دانلود نسخه جدید",
+    "url": "https://example.com/nulimit.apk"
+  }
+}
